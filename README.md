@@ -64,8 +64,11 @@ Ansible playbooks for provisioning, monitoring setup, and connectivity validatio
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushikeshSakharle&show_icons=true&theme=radical" alt="Rushikesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshSakharle&theme=radical" alt="Rushikesh's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RushikeshSakharle&theme=radical" alt="Rushikesh's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RushikeshSakharle&theme=radical" alt="Rushikesh's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushikeshSakharle&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
