@@ -1,94 +1,71 @@
 <div align="center">
 
-# Linux Administrator & DevOps Automation Engineer — Rushikesh Sakharle
+# Rushikesh Sakharle
 
-**Linux sys-admin (L1/L2) automating infrastructure with Bash, Ansible, and shell scripting. Monitoring specialist with Nagios/Grafana on RHEL/Ubuntu.**
+Linux Administrator and DevOps Automation Engineer focused on Bash, Ansible, monitoring, and hardened Linux infrastructure.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=RushikeshSakharle&color=blueviolet&style=flat-square)](https://github.com/RushikeshSakharle)
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Linux+Administrator;Ansible+Automation+Engineer;Shell+Scripting+Pro;Monitoring+Specialist;Always+Learning+🚀&center=true&width=520&height=45">
+[![GitHub followers](https://img.shields.io/github/followers/rushikeshsakharleofficial?style=for-the-badge&logo=github)](https://github.com/rushikeshsakharleofficial?tab=followers)
+[![Repository stars](https://img.shields.io/github/stars/rushikeshsakharleofficial/rushikeshsakharleofficial?style=for-the-badge&logo=github)](https://github.com/rushikeshsakharleofficial/rushikeshsakharleofficial/stargazers)
 
 </div>
 
----
+## What is this?
 
-## About Me
+This repository powers the GitHub profile for Rushikesh Sakharle. It highlights Linux administration experience, DevOps automation work, monitoring practices, and infrastructure skills used across RHEL, Rocky Linux, CentOS, and Ubuntu environments.
 
-Linux Administrator with hands-on L1/L2 production experience managing **3000+ machines**. Specializing in **Bash/Ansible automation**, **Nagios/Grafana monitoring**, and **OS hardening** across RHEL, Rocky Linux, CentOS, and Ubuntu environments. Passionate about building resilient, self-healing infrastructure.
+## Quick Start
 
-- 🐧 Linux sys-admin — RHEL / Rocky Linux / CentOS / Ubuntu
-- ⚙️ Automation: Bash scripting, Ansible playbooks, Cron, Systemd
-- 📊 Monitoring: Nagios / NRPE, Grafana, Rsyslog, alerting pipelines
-- 🔒 OS hardening and production security practices
-- ☁️ Exploring Cloud & Infrastructure-as-Code automation
+There is no build step for this repository. GitHub renders `README.md` automatically on the profile page when the repository name matches the account name.
 
----
+View it here: [github.com/rushikeshsakharleofficial](https://github.com/rushikeshsakharleofficial)
 
-## Tech Stack
+## Focus Areas
 
-### 🐧 Linux & System Administration
-- RHEL / Rocky Linux / CentOS / Ubuntu
-- LVM, NFS, Samba, FTP
-- User & permission management, log rotation, OS hardening
+- Linux system administration for production environments
+- Bash and shell scripting for repeatable operational tasks
+- Ansible automation for provisioning and configuration management
+- Nagios, NRPE, Grafana, and Rsyslog monitoring workflows
+- OS hardening, user management, permissions, backups, and log rotation
+- Cron, systemd, SSH automation, NFS, Samba, FTP, DNS, SMTP, and firewall operations
 
-### 📡 Monitoring & Logging
-- Nagios / NRPE — Grafana — Rsyslog
-- Server health monitoring: disk / CPU / memory alerting
+## Featured Work
 
-### ⚙️ Automation & DevOps
-- Bash / Shell scripting — Ansible — Cron jobs
-- SSH automation — Systemd service management
+| Area | Description |
+|------|-------------|
+| Server monitoring automation | Health checks and alerting patterns for large Linux fleets using Nagios and NRPE. |
+| Log rotation and backups | Retention, cleanup, and backup sync workflows built with Bash and Cron. |
+| Linux hardening scripts | Audit and remediation scripts for common Linux security baselines. |
+| Infrastructure automation | Ansible playbooks for provisioning, monitoring setup, and connectivity validation. |
 
-### 🌐 Networking
-- DNS management — SMTP / Postfix
-- Firewall configuration — Port monitoring
+## Project Structure
 
----
+```text
+.
+`-- README.md
+```
 
-## Featured Projects
+## Documentation
 
-**🔹 Server Monitoring Automation**
-Automated health checks across 3,000+ machines with Nagios/NRPE alerting integration. Reduced incident response time significantly.
-
-**🔹 Log Rotation & Backup Management**
-Automated 7-day log retention with backup-server sync and cleanup policy via Bash + Cron.
-
-**🔹 Linux Hardening Scripts**
-Custom shell scripts for auditing and securing production RHEL/Ubuntu servers against common CVEs.
-
-**🔹 Dynamic Infrastructure Automation**
-Ansible playbooks for provisioning, monitoring setup, and connectivity validation across bare-metal fleets.
-
----
+| Resource | Description |
+|----------|-------------|
+| [README.md](README.md) | GitHub profile content and professional overview. |
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RushikeshSakharle&theme=radical" alt="Rushikesh's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RushikeshSakharle&theme=radical" alt="Rushikesh's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rushikeshsakharleofficial&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikeshsakharleofficial&theme=github_dark" alt="Most used languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushikeshSakharle&theme=radical" alt="Most Used Languages" />
-</p>
-
----
 
 ## Connect
 
-- 🌐 [linuxhardened.com](https://www.linuxhardened.com)
-- 💼 LinkedIn: *(add profile URL)*
-- 📧 Email: *(add professional email)*
+- Website: [linuxhardened.com](https://www.linuxhardened.com)
+- GitHub: [rushikeshsakharleofficial](https://github.com/rushikeshsakharleofficial)
 
 ---
 
-> *"Secure. Automate. Monitor. Scale."*
+<div align="center">
 
----
+[![Star History Chart](https://api.star-history.com/svg?repos=rushikeshsakharleofficial/rushikeshsakharleofficial&type=Date)](https://star-history.com/#rushikeshsakharleofficial/rushikeshsakharleofficial&Date)
 
-## Maintainer TODOs
-
-- [ ] Set GitHub **About description** (Settings → Edit): `Linux Administrator & DevOps automation engineer. Bash, Ansible, Nagios, Grafana. Automating hardened Linux infrastructure across 3000+ machines.`
-- [ ] Add GitHub **Topics** (Settings → Topics): `linux`, `devops`, `automation`, `ansible`, `bash`, `shell-scripting`, `monitoring`, `sysadmin`, `nagios`, `grafana`
-- [ ] Replace LinkedIn placeholder with real profile URL
-- [ ] Replace email placeholder with professional address
-- [ ] Add 1280×640px **Social preview** image (Settings → Social preview) — suggested: terminal screenshot + name + tagline
+</div>
